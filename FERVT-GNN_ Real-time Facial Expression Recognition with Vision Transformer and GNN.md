@@ -107,4 +107,4 @@ fer-deployment/
 | `system_architecture.md` | Detailed model component analysis |
 
 ---
-*Created by Manus AI*
+
